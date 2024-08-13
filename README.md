@@ -42,5 +42,5 @@ Se você optou por rodar os teste com o report htmlextra, você gerou um arquivo
 
 ## Entre em contato
 
-- email: michelle18lopes@gmail.com
-- linkedin: www.linkedin.com/in/michelle-lopes-qa -->
+- email: glauciojsilveira@hotmail.com
+- linkedin: https://www.linkedin.com/in/glaucio-silveira-48a80833/ -->
